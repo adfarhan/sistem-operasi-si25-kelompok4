@@ -1,4 +1,4 @@
-# sistem-operasi-si25-kelompok4
+[# sistem-operasi-si25-kelompok4
 Tugas Instalasi Debian 13 Headless - Kelompok 4
 
 # Laporan Tugas Kelompok: Instalasi Debian 13 Headless Web Server
@@ -225,3 +225,4 @@ Tuliskan simpulan dari praktikum yang telah dilakukan serta poin-poin penting ya
 - Proses instalasi dan manajemen service web server (Nginx) menggunakan `systemctl`.
 - Pemahaman konsep port forwarding pada hypervisor untuk menghubungkan jaringan host dan guest.
 - Kendala yang dihadapi kelompok selama praktikum dan cara mengatasinya.
+](https://github.com/malvarnaa/sistem-operasi-si25-kelompok2/tree/main#langkah-5-konfigurasi-jaringan)
