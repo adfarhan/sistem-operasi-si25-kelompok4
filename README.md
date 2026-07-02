@@ -87,9 +87,7 @@ Tugas Instalasi Debian 13 Headless - Kelompok 4
 ### 2. Konfigurasi User Sudo & Update Repositori
 
 1. Login sebagai `root` terlebih dahulu (karena user biasa belum memiliki akses sudo):
-   ```bash
-   su -
-   ```
+
 2. Perbarui daftar paket dan sistem:
    ```bash
    apt update && apt upgrade -y
