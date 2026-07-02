@@ -114,7 +114,7 @@ Tugas Instalasi Debian 13 Headless - Kelompok 4
 14. Login menggunakan user biasa yang sudah dibuat pada langkah 6.
     *Penjelasan:* Ini adalah tanda instalasi berhasil — sistem sudah bisa menerima login dan siap dikonfigurasi lebih lanjut.
     * *[Tambahkan screenshot tampilan login terminal Debian pertama kali di bawah ini]*
-      ![Login Terminal](images/02-debian-login.png)
+      ![Login Terminal](images/07-root-login.png)
 
 ---
 
@@ -153,7 +153,7 @@ Tugas Instalasi Debian 13 Headless - Kelompok 4
    ```
    *Penjelasan:* Perintah `whoami` menampilkan nama user yang sedang aktif menjalankan perintah. Jika hasilnya `root` meskipun kita login sebagai user biasa, artinya `sudo` berhasil dikonfigurasi — user berhasil "meminjam" hak akses root untuk satu perintah tersebut.
    * *[Tambahkan screenshot hasil uji coba perintah sudo oleh user biasa di bawah ini]*
-     ![Konfigurasi Sudo](images/02-sudo-config.png)
+     ![Konfigurasi Sudo](images/02-debian-login.png)
 
 ---
 
