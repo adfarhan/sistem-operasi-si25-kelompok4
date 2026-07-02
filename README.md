@@ -105,9 +105,7 @@ Tugas Instalasi Debian 13 Headless - Kelompok 4
    reboot
    ```
 6. Login kembali menggunakan user biasa, lalu uji akses sudo:
-   ```bash
-   sudo whoami
-   ```
+
    Hasil yang benar akan menampilkan `root`, menandakan user sudah memiliki hak akses sudo.
    * *[Tambahkan screenshot hasil uji coba perintah sudo oleh user biasa di bawah ini]*
      ![Konfigurasi Sudo](images/02-sudo-config.png)
