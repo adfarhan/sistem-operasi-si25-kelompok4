@@ -108,7 +108,7 @@ Tugas Instalasi Debian 13 Headless - Kelompok 4
 
    Hasil yang benar akan menampilkan `root`, menandakan user sudah memiliki hak akses sudo.
    * *[Tambahkan screenshot hasil uji coba perintah sudo oleh user biasa di bawah ini]*
-     ![Konfigurasi Sudo](images/02-sudo-config.png)
+     ![Konfigurasi Sudo](images/02-debian-login.png)
 
 ---
 
