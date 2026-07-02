@@ -80,7 +80,7 @@ Tugas Instalasi Debian 13 Headless - Kelompok 4
 13. Setelah instalasi selesai, VM akan reboot otomatis. Lepas media instalasi (ISO) jika diminta.
 14. Login menggunakan user biasa yang sudah dibuat pada langkah 6.
     * *[Tambahkan screenshot tampilan login terminal Debian pertama kali di bawah ini]*
-      ![Login Terminal](images/02-debian-login.png)
+      ![Login Terminal](images/07-root-login.png)
 
 ---
 
