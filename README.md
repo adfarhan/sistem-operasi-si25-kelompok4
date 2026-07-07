@@ -135,7 +135,7 @@ Program Studi: Sistem Informasi, Universitas Galuh
   ![Akses Browser Host](images/06-browser-host.png)
 
 ## 🎥 Link Video Demo
-[Tonton Video Demo Pengerjaan Tugas Kelompok di YouTube / Google Drive]([https://youtube.com/...](https://drive.google.com/file/d/1_fFGlP-1xCBUqy4K78ndMNQV9zMw8RMS/view?usp=drivesdk)
+[Tonton Video Demo Pengerjaan Tugas Kelompok di Google Drive](https://drive.google.com/file/d/1_fFGlP-1xCBUqy4K78ndMNQV9zMw8RMS/view?usp=drivesdk)
 
 ## 📄 Link Laporan
 [Laporan Lengkap Instalasi Debian 13 Headless Web Server - Kelompok 4 (Google Drive)](https://drive.google.com/...)
