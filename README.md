@@ -122,11 +122,7 @@ Tugas Instalasi Debian 13 Headless - Kelompok 4
 
 **Tujuan tahap ini:** memberi user biasa hak akses administratif secara terkontrol, dan memastikan seluruh paket sistem dalam kondisi terbaru.
 
-1. Login sebagai `root` terlebih dahulu (karena user biasa belum memiliki akses sudo):
-   ```bash
-   su -
-   ```
-   *Penjelasan:* Perintah `su -` (*switch user*) berpindah sesi ke user `root` beserta environment login-nya. Ini diperlukan karena user biasa belum terdaftar di grup `sudo`, sehingga belum bisa menjalankan perintah administratif.
+1. Login sebagai `root` terlebih dahulu (karena user biasa belum memiliki akses sudo)
 2. Perbarui daftar paket dan sistem:
    ```bash
    apt update && apt upgrade -y
@@ -290,7 +286,7 @@ Tugas Instalasi Debian 13 Headless - Kelompok 4
 
 ## 🎥 Link Video Demo
 
-[Tonton Video Demo Pengerjaan Tugas Kelompok di YouTube / Google Drive](https://youtube.com/...)
+[Tonton Video Demo Pengerjaan Tugas Kelompok di YouTube / Google Drive](https://drive.google.com/file/d/1_fFGlP-1xCBUqy4K78ndMNQV9zMw8RMS/view?usp=drivesdk)
 
 ## 📝 Kesimpulan
 
