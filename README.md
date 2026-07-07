@@ -137,7 +137,7 @@ Program Studi: Sistem Informasi, Universitas Galuh
 ## 🎥 Link Video Demo
 [Tonton Video Demo Pengerjaan Tugas Kelompok di YouTube / Google Drive]([https://youtube.com/...](https://drive.google.com/file/d/1_fFGlP-1xCBUqy4K78ndMNQV9zMw8RMS/view?usp=drivesdk)
 
-## 📄 Link Laporan (.docx)
+## 📄 Link Laporan
 [Laporan Lengkap Instalasi Debian 13 Headless Web Server - Kelompok 4 (Google Drive)](https://drive.google.com/...)
 
 *(Ganti tautan di atas dengan link Google Drive/OneDrive tempat file laporan `.docx` Kelompok 4 disimpan, dan pastikan akses berbagi diatur "Anyone with the link can view".)*
