@@ -2,7 +2,7 @@
 Mata Kuliah: Sistem Operasi (SI-25)
 Program Studi: Sistem Informasi, Universitas Galuh
 
-## 👥 Anggota Kelompok 4 (Kelas SI-2025A / SI-2025B)
+## 👥 Anggota Kelompok 4 (Kelas SI-2025A)
 1. Yayan Farhan - 7020250001
 2. Taufiqurrahman Hakim - 7020250020
 3. Ade Farhan Gunawan - 7020250015
